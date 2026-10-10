@@ -1,6 +1,6 @@
 # 服装图像分类 · Fashion-MNIST
 
-[教程王者](https://www.tensorflow.org/tutorials/keras/classification?hl=zh-cn)
+[教程网址](https://www.tensorflow.org/tutorials/keras/classification?hl=zh-cn)
 
 用 TensorFlow / Keras 训练一个神经网络，把 28×28 的服装灰度图分成 10 类。
 
